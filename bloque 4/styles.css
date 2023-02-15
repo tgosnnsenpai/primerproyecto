@@ -1,0 +1,38 @@
+
+*{
+color:blue;
+font-family: 'Julee', cursive;
+}
+
+
+p{
+    color: red;
+    width: 300px;
+    
+}
+
+section {
+border: 1px solid red;
+    color: blue;
+padding: 5px;
+margin-top: 30px;
+margin-bottom:100px;
+margin-left:200px;
+
+padding:30px 15px 25px 20px;  /*esto se lee top right bottom left sin necesidad 
+                                de especificarlo como con los margenes (sentido agujas 
+                                del reloj)*/
+
+font-weight: bold;
+
+}
+
+
+#parrafo_distinto{
+    color: orange;
+}
+
+.estaesmiclase{
+    background-color: aqua;
+}
+
