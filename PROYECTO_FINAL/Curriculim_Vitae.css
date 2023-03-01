@@ -1,6 +1,7 @@
 *{font-family: 'Julee', cursive;
     font-family: 'Source Sans Pro', sans-serif;
     text-align: justify;
+    color: white;
 }
 
 .bold{
@@ -44,24 +45,28 @@ body {
 
 
 #Lugar {
-    border-bottom: 1px solid;
+    border-bottom: 3px solid;
     padding-bottom: 20px;
+    color: white;
 }
 
 #Nombre{
-    border-bottom: 1px solid;
+    border-bottom: 3px solid;
     padding-bottom: 15px;
     text-align: center;
+    color: white;
 }
 
 #HistoriaLaboral{
-    border-top: 1px solid;
+    border-top: 3px solid;
     padding-top: 15px;
+    color: white;
 }
 
 #Formacion{
-    border-top: 1px solid;
+    border-top: 3px solid;
     padding-top: 15px;
+    color: white;
 }
 
  
